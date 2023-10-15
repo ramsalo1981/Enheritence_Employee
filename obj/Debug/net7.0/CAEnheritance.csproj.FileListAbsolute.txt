@@ -1,0 +1,14 @@
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\bin\Debug\net7.0\CAEnheritance.exe
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\bin\Debug\net7.0\CAEnheritance.deps.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\bin\Debug\net7.0\CAEnheritance.runtimeconfig.json
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\bin\Debug\net7.0\CAEnheritance.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\bin\Debug\net7.0\CAEnheritance.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.AssemblyInfoInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.AssemblyInfo.cs
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.csproj.CoreCompileInputs.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\refint\CAEnheritance.dll
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.pdb
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\CAEnheritance.genruntimeconfig.cache
+C:\Users\ramis\Desktop\dr_atef_c#\dot_net_core\CAEnheritance\obj\Debug\net7.0\ref\CAEnheritance.dll
